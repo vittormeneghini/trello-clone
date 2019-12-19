@@ -1,0 +1,27 @@
+{
+  "boards": [
+    {
+      "id": 1,
+      "name": "Primeiro Board",
+      "favorite": false,
+      "lists": [
+        {
+          "id": 1,
+          "name": "Lista 1"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Segundo Board",
+      "favorite": false,
+      "lists": []
+    },
+    {
+      "id": 3,
+      "name": "Terceiro Board",
+      "favorite": false,
+      "lists": []
+    }
+  ]
+}
