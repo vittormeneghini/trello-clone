@@ -8,3 +8,4 @@
 1. Creating server without password `docker run -d -p 27017:27017 -p 28017:28017 -e AUTH=no tutum/mongodb`
 1. Exec `docker ps -a` to list all containers and take a containerId
 1. With containerId run `docker start containerId`
+1. Create a database with name `trellodb`
